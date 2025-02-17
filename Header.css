@@ -1,0 +1,25 @@
+.header-wrapper{
+    background : #27445D;
+    color: white;
+    font-weight:550;
+}
+
+.header-container{
+    justify-content : space-between;
+    padding-top: 1rem;
+    padding-bottom:1rem;
+    color: #F8F3EA;
+}
+
+.header-menu{
+    gap: 1.5rem;
+}
+
+.button-header{
+    background : #27445D;
+    color: #F8F3EA;
+    font-weight: 600;
+    padding:0.1rem 0.9rem;
+    border: 1px solid white;
+    font-size:0.95rem;
+}
