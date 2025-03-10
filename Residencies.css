@@ -1,0 +1,81 @@
+.r-head{
+    margin-bottom: 2rem;
+}
+
+.decor1{
+    color: orange;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.decor2{
+    color:#1f3e72;
+    font-size:1.6rem;
+    fonr-weight:bold;
+}
+
+.pic1{
+    color:#1f3e72;
+    font-size:1.6rem;
+    fonr-weight:bold;
+}
+
+.r-card{
+    gap:0.6rem;
+    padding:1rem;
+    border-radius:10px;
+    max-width:max-content;
+    margin:auto;
+    transition: all 250ms ease-in;
+}
+
+.r-card>img{
+    width: 100%;
+    max-width:15rem;
+}
+
+.r-card>:nth-child(2){
+    font-size:1.2rem;
+    font-weight: 600;
+}
+
+.r-card>:nth-child(3){
+    font-size:1.5rem;
+    
+}
+
+.r-card>:nth-child(4){
+    font-size:0.7rem;
+    width-15rem;
+}
+
+.r-card:hover{
+    scale:1.025;
+    cursor:pointer;
+    background-color:linear-gradient(
+        180deg,
+        rgba(173, 216, 230);
+    );
+    box-shadow: 0px 72px 49px -51px rgba(136,160,255,0.21);
+}
+
+.r-container{
+    overflow: hidden;
+    positon: relative;
+}
+
+.r-button{
+    positon: absolute;
+    gap: 1rem;
+    top: -4rem;
+    right: 0;
+}
+
+.r-button button{
+    font-size:1.2rem;
+    padding: 0.2rem 0.8rem;
+    color: blue;
+    /* border: none; */
+    background-color: white;
+    cursor-pointer;
+}

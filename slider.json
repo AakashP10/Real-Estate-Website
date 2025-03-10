@@ -1,0 +1,38 @@
+[
+  {
+    "name": "M3M Golf Estate",
+    "price": "80 Lakhs",
+    "detail": "Situated on the Golf Course Extension Road",
+    "image": "./r1.png"
+  },
+  {
+    "name": "SS Hibiscus",
+    "price": "65 Lakhs",
+    "detail": "Situated in sector 50 in Gurgaon",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Tata Raisina Residency",
+    "price": "1 Crore",
+    "detail": "Situated at the foothill of Aravalli Range",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Vipul Greens",
+    "price": "90 Lakhs",
+    "detail": "Vipul Greens is a beautiful township situated in sector 50 and 51",
+    "image": "./r1.png"
+  },
+  {
+    "name": "DLF Park Place",
+    "price": "1.15 Crore",
+    "detail": "DLF Park Place is one of the top posh socities situated in Gurgaon",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Central Park Resorts",
+    "price": "2 Crore",
+    "detail": "Central Park Resorts in Guragon Sector 48",
+    "image": "./r3.png"
+  }
+]
