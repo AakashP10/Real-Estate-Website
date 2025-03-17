@@ -14,6 +14,8 @@ function App() {
       <Companies/>
       <Residencies/>
       <Value/>
+      <Contact/>
+      <Footer/> 
     </div>
   );
 }
